@@ -2,3 +2,4 @@
 advanced git features including git objects review.
 
 README.MD was just edited manually. One more edit at GitHub.
+changes from remote.
