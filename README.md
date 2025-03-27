@@ -1,5 +1,3 @@
 # mike-repo
 advanced git features including git objects review.
-
-README.MD was just edited manually. This file was modified locally.
-
+This line was modified manually during conflicts resolution.
